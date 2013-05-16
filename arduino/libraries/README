@@ -1,0 +1,9 @@
+External dependencies:
+
+For SerialIR sketch:
+- https://github.com/shirriff/Arduino-IRremote
+
+For SerialEncoder sketch:
+- https://github.com/tigoe/Button
+- http://www.pjrc.com/teensy/td_libs_Encoder.html
+- as well as included Led library.
